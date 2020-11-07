@@ -317,6 +317,7 @@ Detailed changes for each release are documented in the [release notes](https://
 - [Twitter](https://twitter.com/vuejs)
 - [Blog](https://medium.com/the-vue-point)
 - [Job Board](https://vuejobs.com/?ref=vuejs)
+- [Learn Vue.js](https://blog.coursesity.com/best-vuejs-tutorials/)
 
 ## Contribution
 
